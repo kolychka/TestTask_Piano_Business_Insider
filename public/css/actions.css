@@ -1,0 +1,58 @@
+.actions-container {
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+}
+.actions-container_margins {
+    margin: 40px 0;
+}
+.action {
+    width: 185px;
+}
+
+.action__label {
+    display: block;
+    font-size: 9px;
+    line-height: 12px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+.action__label_padding_b {
+    padding-bottom: 6px;
+}
+
+.action__button {
+    width: 185px;
+    height: 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    outline-style: none;
+
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 12px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+.action__button_white {
+    background: #FFFFFF;
+    color: #FD722D;
+    border: 2px #FD722D solid;
+}
+.action__button_white:hover {
+    background: #fcfcfc;
+    color: #fd722d9f;
+    border: 2px #fd722d9f solid;
+}
+.action__button_orange {
+    background: #FD722D;
+    color: #FFFFFF;
+    border: 2px #FD722D solid;
+}
+.action__button_orange:hover {
+    background: #fd722d9f;
+    color: #fcfcfc;
+    border: 2px #fd722d9f solid;
+}

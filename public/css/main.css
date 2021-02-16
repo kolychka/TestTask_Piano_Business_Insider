@@ -1,0 +1,25 @@
+.body {
+    background: gainsboro;
+    font-family: "LabGrotesque-Regular", sans-serif;
+}
+.body_margins {
+    margin: 0;
+}
+
+.label_default {
+    font-size: 15px;
+    line-height: 21px;
+}
+
+.logo {
+    display: block;
+}
+
+.link {
+    color: #FD722D;
+    text-decoration: none;
+    cursor: pointer;
+}
+.link:hover {
+    color: #fd722d9f;
+}

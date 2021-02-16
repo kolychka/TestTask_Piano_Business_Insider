@@ -1,0 +1,13 @@
+.footer-info {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    color: #9B9B9B;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 32px;
+}
+.footer-info__item {
+    display: inline-block;
+    width: 180px;
+}
