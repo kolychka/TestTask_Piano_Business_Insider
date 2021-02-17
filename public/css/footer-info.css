@@ -5,9 +5,8 @@
     color: #9B9B9B;
     font-size: 13px;
     font-weight: 500;
-    line-height: 32px;
+    line-height: 13px;
 }
 .footer-info__item {
-    display: inline-block;
-    width: 180px;
+    display: contents;
 }

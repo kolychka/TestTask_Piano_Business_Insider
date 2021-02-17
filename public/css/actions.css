@@ -3,8 +3,8 @@
     justify-content: space-around;
     height: 60px;
 }
-.actions-container_margins {
-    margin: 40px 0;
+.actions-container_margin {
+    margin: 40px 0 35px 0;
 }
 .action {
     width: 185px;

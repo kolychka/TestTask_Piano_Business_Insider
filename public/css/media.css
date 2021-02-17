@@ -1,0 +1,78 @@
+.logo_size {
+    width: 150px;
+}
+
+.label_default {
+    font-size: 13px;
+    line-height: 16px;
+}
+
+
+
+.modal-container {
+    padding: 10px;
+}
+
+.modal {
+    width: 300px;
+    height: min-content;
+}
+.modal_padding {
+    padding: 15px 14px 10px 16px;
+}
+.modal__text_padding {
+    box-sizing: border-box;
+    padding: 0 40px 0 0;
+}
+
+
+
+.title{
+    font-family: "LabGrotesque-Black", sans-serif;
+    font-size: 19px;
+    line-height: 21px;
+}
+.title_margin {
+    margin: 16px 0 10px 0;
+}
+
+
+
+.actions-container_margin {
+    margin: 15px 0;
+}
+
+.action {
+    width: 94px;
+}
+
+.action__label {
+    font-size: 9px;
+    line-height: 10px;
+    letter-spacing: 0.03em;
+}
+.action__label_padding_b {
+    padding-bottom: 6px;
+}
+
+.action__button {
+    width: 94px;
+    height: 32px;
+    border-radius: 33px;
+
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.025em;
+}
+
+
+
+.footer-info {
+    justify-content: space-between;
+    color: #9B9B9B;
+    font-size: 10px;
+    line-height: 12px;
+}
+.footer-info__item {
+    display: contents;
+}

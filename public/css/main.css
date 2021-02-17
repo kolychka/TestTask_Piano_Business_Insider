@@ -1,8 +1,14 @@
 .body {
     background: gainsboro;
     font-family: "LabGrotesque-Regular", sans-serif;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
 }
-.body_margins {
+.body_margin {
     margin: 0;
 }
 
